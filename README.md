@@ -35,10 +35,12 @@ sh scripts/mosi/run.sh 0
 - CMU-MOSI & CH-SIMS
 
 ![mosi_mosei_incomplete_table](figs/22.png)
-- Loss
+- Loss <br>
+
 
 ![mosi_mosei_incomplete_fig](figs/33.png)
 
 
-- Visualisation of model prediction labels on SIMS dataset.
+- Visualisation of model prediction labels on SIMS dataset.<br>
+
 ![mosi_mosei_incomplete_fig](figs/44.png)
