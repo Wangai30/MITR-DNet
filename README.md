@@ -1,4 +1,4 @@
-# EMT-DLFR
+# MITR-DNet
 > **Modality-Invariant Bidirectional Temporal Representation Distillation Network for Missing Multimodal Sentiment Analysis**<br>
 > [Xincheng Wang], [Liejun Wang], [ Yingfeng Yu], and [Xinxin Jiao]<br>
 > School of Computer Science and Technology, Xinjiang University, Urumqi, China<br>
